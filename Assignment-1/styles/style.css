@@ -1,0 +1,191 @@
+/* header design  */
+.fira-sans-thin {
+    font-family: "Fira Sans", serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+
+.nav-cen{
+    display: flex;
+    justify-content: space-between;
+    margin: 2px 160px;
+    align-content: center;
+    font-size: 30px;
+}
+
+.btn-primary{
+    color: rgb(0, 106, 80);
+font-family: Fira Sans;
+font-size: 18px;
+font-weight: 600;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: left;
+box-sizing: border-box;
+border: 1px solid rgb(0, 106, 80);
+border-radius: 8px;
+padding: 15px 30px 15px 30px;
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    margin: 100px 150px;
+    border-radius: 24px;
+
+    background: rgb(198, 228, 214);
+    padding: 20px 30px;
+}
+
+h1{
+    margin-top: 80px;
+}
+
+a{
+    margin-top: 60px;
+}
+
+.skills-container{
+    display: flex;
+    gap: 24px;
+}
+
+.skill{
+    
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0px 6px 50px 0px rgba(0,0,0,0.06);
+}
+
+.skills{
+    
+    margin: 80px;
+    padding: 50px;
+}
+.des{
+    font-size: 15px;
+}
+
+.box-color1{
+    background-color: rgba(84, 144, 245, 0.2);
+}
+.box-color2{
+    background-color: rgb(198, 228, 214);
+}
+
+.box-color3{
+    background-color: rgb(247, 235, 207);
+}
+.about-secondary-bg{
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+
+    background: rgb(255, 255, 255);
+    margin: 132px;
+    padding: 20px;
+}
+.name{
+    margin-bottom: 0px;
+}
+
+  
+.table-head{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    border: 1px solid black;
+    height: 50px;
+    width: 1200px;
+    align-items: center;
+    padding: 5px;
+    
+}
+
+.table{
+    margin: 130px;
+}
+
+.table-h{
+    background-color:rgb(198, 228, 214);
+}
+.btn-primary2{
+    color: rgb(0, 106, 80);
+font-family: Fira Sans;
+font-size: 15px;
+font-weight: 600;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: left;
+box-sizing: border-box;
+border: 2px solid rgb(0, 106, 80);
+border-radius: 8px;
+padding: 10px 20px 10px 20px;
+}
+
+.news{
+    display: block;
+    margin: 10px;
+}
+
+.skill-box-color1{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+    border-radius: 30px;
+    gap: 20px;
+
+}
+
+.rev-content2{
+    flex-direction: row-reverse;
+}
+
+.margin-content{
+    margin: 50px;
+}
+
+.img-rad{
+    border-radius: 30px;
+}
+
+.subscribe{
+    border: none;
+    background-color: rgb(198, 228, 214);
+    margin: 80px 100px;
+    text-align: center;
+    border-radius: 30px;
+    padding: 20px;
+    
+}
+
+.sub{
+    text-align: center;
+}
+.newin{
+    width: 500px;
+    height: 40px;
+    border-radius: 10px;
+    padding: 2px 10px;
+    margin-bottom: 80px;
+}
+
+
+.foot-align{
+    text-align: center;
+    align-items: center;
+    border: 1px solid rgba(14, 14, 14, 0.1);
+}
+
+
+
+.align1{
+    margin: 50px;
+}
+
+.gap{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
